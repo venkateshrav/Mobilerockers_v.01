@@ -14,6 +14,9 @@ class UploadimagesViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        func newuploads(){
+            print("new uploads aRE HERE")
+        }
     }
     
 
