@@ -9,12 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+let upvc = UploadimagesViewController()
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        uploadimgs()
     }
-
+    func uploadimgs(){
+        print("images are uploaded")
+    }
 
 }
 
