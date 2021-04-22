@@ -13,6 +13,7 @@
 		DA0FC7182631A9AF007351C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA0FC7162631A9AF007351C0 /* Main.storyboard */; };
 		DA0FC71A2631A9B0007351C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA0FC7192631A9B0007351C0 /* Assets.xcassets */; };
 		DA0FC71D2631A9B0007351C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA0FC71B2631A9B0007351C0 /* LaunchScreen.storyboard */; };
+		DA0FC7252631AA11007351C0 /* UploadimagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0FC7242631AA11007351C0 /* UploadimagesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DA0FC7192631A9B0007351C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA0FC71C2631A9B0007351C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA0FC71E2631A9B0007351C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA0FC7242631AA11007351C0 /* UploadimagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadimagesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DA0FC7192631A9B0007351C0 /* Assets.xcassets */,
 				DA0FC71B2631A9B0007351C0 /* LaunchScreen.storyboard */,
 				DA0FC71E2631A9B0007351C0 /* Info.plist */,
+				DA0FC7242631AA11007351C0 /* UploadimagesViewController.swift */,
 			);
 			path = Mobilerockers;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				DA0FC7152631A9AF007351C0 /* ViewController.swift in Sources */,
 				DA0FC7112631A9AF007351C0 /* AppDelegate.swift in Sources */,
+				DA0FC7252631AA11007351C0 /* UploadimagesViewController.swift in Sources */,
 				DA0FC7132631A9AF007351C0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
